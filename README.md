@@ -74,6 +74,11 @@ data-science-projects/
 │   ├── notebook.ipynb
 │   ├── dashboard/
 │   └── images/
-│
+|
+│── NYC Taxi Trip Time Prediction/
+│   ├── README.md
+│   ├── notebook.ipynb
+│   ├── Dataset/
+│   
 │
 └── README.md
