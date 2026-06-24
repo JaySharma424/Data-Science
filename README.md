@@ -75,10 +75,5 @@ data-science-projects/
 │   ├── dashboard/
 │   └── images/
 │
-│── Diabetic-Retinopathy-Detection/
-│   ├── README.md
-│   ├── notebook.ipynb
-│   ├── dataset/
-│   └── results/
 │
 └── README.md
